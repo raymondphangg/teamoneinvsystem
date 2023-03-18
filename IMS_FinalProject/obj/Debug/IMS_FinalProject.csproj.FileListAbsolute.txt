@@ -1,0 +1,32 @@
+C:\Raymond's Files\UIB Files\Sistem Basis Data\IMS_FinalProject\IMS_FinalProject\obj\Debug\IMS_FinalProject.csproj.AssemblyReference.cache
+C:\Raymond's Files\UIB Files\Sistem Basis Data\IMS_FinalProject\IMS_FinalProject\obj\Debug\IMS_FinalProject.DashboardForm.resources
+C:\Raymond's Files\UIB Files\Sistem Basis Data\IMS_FinalProject\IMS_FinalProject\obj\Debug\IMS_FinalProject.Form1.resources
+C:\Raymond's Files\UIB Files\Sistem Basis Data\IMS_FinalProject\IMS_FinalProject\obj\Debug\IMS_FinalProject.ProductsForm.resources
+C:\Raymond's Files\UIB Files\Sistem Basis Data\IMS_FinalProject\IMS_FinalProject\obj\Debug\IMS_FinalProject.Properties.Resources.resources
+C:\Raymond's Files\UIB Files\Sistem Basis Data\IMS_FinalProject\IMS_FinalProject\obj\Debug\IMS_FinalProject.csproj.GenerateResource.cache
+C:\Raymond's Files\UIB Files\Sistem Basis Data\IMS_FinalProject\IMS_FinalProject\obj\Debug\IMS_FinalProject.csproj.CoreCompileInputs.cache
+C:\Raymond's Files\UIB Files\Sistem Basis Data\IMS_FinalProject\IMS_FinalProject\bin\Debug\IMS_FinalProject.exe.config
+C:\Raymond's Files\UIB Files\Sistem Basis Data\IMS_FinalProject\IMS_FinalProject\bin\Debug\IMS_FinalProject.exe
+C:\Raymond's Files\UIB Files\Sistem Basis Data\IMS_FinalProject\IMS_FinalProject\bin\Debug\IMS_FinalProject.pdb
+C:\Raymond's Files\UIB Files\Sistem Basis Data\IMS_FinalProject\IMS_FinalProject\obj\Debug\IMS_FinalProject.exe
+C:\Raymond's Files\UIB Files\Sistem Basis Data\IMS_FinalProject\IMS_FinalProject\obj\Debug\IMS_FinalProject.pdb
+C:\Raymond's Files\UIB Files\Sistem Basis Data\IMS_FinalProject\IMS_FinalProject\obj\Debug\IMS_FinalProject.CustomersForm.resources
+C:\Raymond's Files\UIB Files\Sistem Basis Data\IMS_FinalProject\IMS_FinalProject\obj\Debug\IMS_FinalProject.AdminForm.resources
+C:\Raymond's Files\UIB Files\Sistem Basis Data\IMS_FinalProject\IMS_FinalProject\obj\Debug\IMS_FinalProject.CategoriesForm.resources
+C:\Raymond's Files\UIB Files\Sistem Basis Data\IMS_FinalProject\IMS_FinalProject\obj\Debug\IMS_FinalProject.OrdersForm.resources
+C:\Raymond's Files\UIB Files\App Development Project\Project TeamOne Inventory Management System\IMS_FinalProject\bin\Debug\IMS_FinalProject.exe.config
+C:\Raymond's Files\UIB Files\App Development Project\Project TeamOne Inventory Management System\IMS_FinalProject\bin\Debug\IMS_FinalProject.exe
+C:\Raymond's Files\UIB Files\App Development Project\Project TeamOne Inventory Management System\IMS_FinalProject\bin\Debug\IMS_FinalProject.pdb
+C:\Raymond's Files\UIB Files\App Development Project\Project TeamOne Inventory Management System\IMS_FinalProject\obj\Debug\IMS_FinalProject.csproj.AssemblyReference.cache
+C:\Raymond's Files\UIB Files\App Development Project\Project TeamOne Inventory Management System\IMS_FinalProject\obj\Debug\IMS_FinalProject.CategoriesForm.resources
+C:\Raymond's Files\UIB Files\App Development Project\Project TeamOne Inventory Management System\IMS_FinalProject\obj\Debug\IMS_FinalProject.CustomersForm.resources
+C:\Raymond's Files\UIB Files\App Development Project\Project TeamOne Inventory Management System\IMS_FinalProject\obj\Debug\IMS_FinalProject.DashboardForm.resources
+C:\Raymond's Files\UIB Files\App Development Project\Project TeamOne Inventory Management System\IMS_FinalProject\obj\Debug\IMS_FinalProject.Form1.resources
+C:\Raymond's Files\UIB Files\App Development Project\Project TeamOne Inventory Management System\IMS_FinalProject\obj\Debug\IMS_FinalProject.OrdersForm.resources
+C:\Raymond's Files\UIB Files\App Development Project\Project TeamOne Inventory Management System\IMS_FinalProject\obj\Debug\IMS_FinalProject.ProductsForm.resources
+C:\Raymond's Files\UIB Files\App Development Project\Project TeamOne Inventory Management System\IMS_FinalProject\obj\Debug\IMS_FinalProject.Properties.Resources.resources
+C:\Raymond's Files\UIB Files\App Development Project\Project TeamOne Inventory Management System\IMS_FinalProject\obj\Debug\IMS_FinalProject.AdminForm.resources
+C:\Raymond's Files\UIB Files\App Development Project\Project TeamOne Inventory Management System\IMS_FinalProject\obj\Debug\IMS_FinalProject.csproj.GenerateResource.cache
+C:\Raymond's Files\UIB Files\App Development Project\Project TeamOne Inventory Management System\IMS_FinalProject\obj\Debug\IMS_FinalProject.csproj.CoreCompileInputs.cache
+C:\Raymond's Files\UIB Files\App Development Project\Project TeamOne Inventory Management System\IMS_FinalProject\obj\Debug\IMS_FinalProject.exe
+C:\Raymond's Files\UIB Files\App Development Project\Project TeamOne Inventory Management System\IMS_FinalProject\obj\Debug\IMS_FinalProject.pdb
